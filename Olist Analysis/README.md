@@ -141,4 +141,4 @@ File: `Dashboard/Olist Dashboard.pbix` dan versi PDF-nya.
 
 ## Tentang saya
 
-Abel Khalil Nugraha. Fresh graduate S1 Teknik Informatika, Universitas Dian Nuswantoro. [Email / LinkedIn / AbelNugraha]
+Abel Khalil Nugraha. Fresh graduate S1 Teknik Informatika, Universitas Dian Nuswantoro. [Email: abellkhl13@gmail.com / Linkedin: Abel Nugraha / GitHub: AbelNugraha]
