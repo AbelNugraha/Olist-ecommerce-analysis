@@ -47,9 +47,9 @@ Cakupan tiap visual di dashboard:
 
 ## Dashboard
 
-![Kinerja Bisnis](Olist Analysis/Screenshot/01_Kinerja_Bisnis.png)
-![Pengiriman dan Kepuasan](Olist Analysis/Screenshot/02_Pengiriman_dan_Kepuasan.png)
-![Retensi Pelanggan](Olist Analysis/Screenshot/03_Retensi_Pelanggan.png)
+![Kinerja Bisnis](Screenshot/01_Kinerja_Bisnis.png)
+![Pengiriman dan Kepuasan](Screenshot/02_Pengiriman_dan_Kepuasan.png)
+![Retensi Pelanggan](Screenshot/03_Retensi_Pelanggan.png)
 
 File: `Dashboard/Olist Dashboard.pbix` dan versi PDF-nya.
 
