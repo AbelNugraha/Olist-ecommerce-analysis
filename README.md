@@ -51,7 +51,7 @@ Cakupan tiap visual di dashboard:
 ![Pengiriman dan Kepuasan](Screenshot/02_Pengiriman_dan_Kepuasan.png)
 ![Retensi Pelanggan](Screenshot/03_Retensi_Pelanggan.png)
 
-File: `dashboard/Olist_Dashboard.pbix` dan versi PDF-nya.
+File: `Dashboard/Olist Dashboard.pbix` dan versi PDF-nya.
 
 ### Halaman 1: Kinerja Bisnis
 
