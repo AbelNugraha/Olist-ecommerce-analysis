@@ -118,7 +118,7 @@ File: `Dashboard/Olist Dashboard.pbix` dan versi PDF-nya.
 - Pembanding harus setara level dengan yang dibandingkan (per order dengan per order).
 - Cara memilih visual dan menulis judul sebagai temuan, serta menyatakan batasan analisis dengan jelas.
 
-## Struktur repository (sesuaikan dengan isi foldermu)
+## Struktur repository
 
 ```
 .
